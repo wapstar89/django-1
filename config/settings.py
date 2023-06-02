@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'u1843448_ictexpo',
         'USER': 'u1843448_ictexpo',
         'PASSWORD': 'gT9yY9kI7pvA1lY3',
-        'HOST': 'localhost',
+        'HOST': '37.140.192.229',
     }
 }
 
